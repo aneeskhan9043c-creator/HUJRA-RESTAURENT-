@@ -17,7 +17,6 @@ body {
   font-family: 'Cinzel', Georgia, serif;
 }
 
-/* Hide scrollbar for clean horizontal mobile categories */
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
