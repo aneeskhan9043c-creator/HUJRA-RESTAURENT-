@@ -1,0 +1,6 @@
+{
+  "name": "HUJRA Restaurant",
+  "description": "Taste crafted to perfection. Authentic Swat Bypass Khyber cuisine, Dum Pukht, Desi Murgh Handi, Shinwari Karahi, Biryani, and Chinese wok specialties in PKR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
