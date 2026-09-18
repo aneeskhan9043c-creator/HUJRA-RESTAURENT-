@@ -162,7 +162,7 @@ export const LocationSection: React.FC = () => {
                 className="w-full h-full border-0 absolute inset-0 filter invert-[90%] hue-rotate-180 contrast-[105%]"
                 allowFullScreen
                 loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
+                referrerPolicy="no-referrer"
               />
             </div>
           </motion.div>

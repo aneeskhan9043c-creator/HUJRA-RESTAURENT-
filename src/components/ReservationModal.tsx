@@ -154,7 +154,7 @@ export const ReservationModal: React.FC<ReservationModalProps> = ({ isOpen, onCl
                 <input
                   type="tel"
                   required
-                  placeholder="e.g. 0345-9043000"
+                  placeholder="e.g. 0315-8223333"
                   value={formData.phone}
                   onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                   className="w-full bg-[#1b1b1b] border border-white/10 rounded-xl px-4 py-2.5 text-white placeholder-gray-600 focus:outline-none focus:border-[#e89f4b]"
